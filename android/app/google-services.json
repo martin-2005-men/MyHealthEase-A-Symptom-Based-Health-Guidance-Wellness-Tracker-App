@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1044341814503",
+    "project_id": "myhealthease-db",
+    "storage_bucket": "myhealthease-db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044341814503:android:055ea25c3f25feeb3b5e42",
+        "android_client_info": {
+          "package_name": "com.example.healthease_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044341814503-5q6nvkm3pnj8en865vi8stskkb88gtfm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthease_app",
+            "certificate_hash": "e37d9b72160dad883dd86c9808755ca55c69ef0c"
+          }
+        },
+        {
+          "client_id": "1044341814503-lu75cm4dfb6cfkqbso0bqd75lcblf96q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAJS4aXQFltJ3AbQlpAapg9VqPFHkh9bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044341814503-lu75cm4dfb6cfkqbso0bqd75lcblf96q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1044341814503-m212e84iaji8g0gbihuhfjcmbtt2iq8f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.healtheaseApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
